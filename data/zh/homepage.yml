@@ -1,0 +1,108 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/face_recognition-bg.jpg"
+  title : "AI Algorithm Design House"
+  content : "TCIT為您的智能產品方案提供更快速與合適的核心AI演算法，並縮短產品上市時間、節省許多直接成本"
+  button:
+    enable : true
+    label : "Discover Our Project"
+    link : "project"
+
+############################# About #################################
+about:
+  enable : true
+  title : "關於我們"
+  description : "成立於2009年，台灣色彩與影像科技 (TCIT) 在影像、色彩與智能分析領域深耕數十年，同時提供創新科技結合新生活形態的應用，致力於滿足人類對於安全、便利跟快樂的需求。
+"
+  content : "我們以軟體研發、系統整合、網路應用服務為發展主軸，擅長影像分析技術、智慧辨識與創新服務，實際應用包含了人臉辨識與監控的系統整合、客層分析、數位看板廣告的觀眾效益量測、區域偵測以及即時門鎖監控系統！
+TCIT 同時具備了核心技術與專業整合能力，為合作廠商提供跨平台且全方位的解決方案，共同邁向嶄新的物聯網及 AI 智慧時代！
+"
+  image : "images/wrapper-img.png"
+
+
+######################### Portfolio ###############################
+portfolio:
+  enable : true
+  bg_image : "images/featue-bg.jpg"
+  title : "協助企業將AI與軟硬體結合並提升產品價值"
+  content : "
+  -AI演算法設計 (AI Algorithm design)
+
+
+  -演算法函式庫開發 (Algorithm Library for specify platform)
+
+
+  -邊緣運算裝置推論最佳化 (Edge Inference optimization)
+  "
+  button:
+    enable : true
+    label : "View Works"
+    link : "project"
+
+
+############################# Service ############################
+service:
+  enable : true
+  # service content comes from "data/*/service.yml" file
+
+
+############################ call to action ###########################
+cta:
+  enable : true
+  bg_image : "images/call-to-action-bg.jpg"
+  title : "We design delightful digital experiences."
+  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  button:
+    enable : true
+    label : "Tell Us Your Story"
+    link : "contact"
+
+############################# Funfacts ###############################
+funfacts:
+  enable : true
+  title : "Fun Facts About Us"
+  description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
+          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  funfact_item:
+    # funfacts item loop
+    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Cups Of Coffee"
+      count : "99"
+      
+    # funfacts item loop
+    - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Article Written"
+      count : "45"
+      
+    # funfacts item loop
+    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Projects Completed"
+      count : "125"
+      
+    # funfacts item loop
+    - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Combined Projects"
+      count : "200"
+
+  testimonial_slider:
+    # testimonial item loop
+    - name : "Raymond Roy"
+      image : "images/clients/avater-1.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+    # testimonial item loop
+    - name : "Randi Renin"
+      image : "images/clients/avater-1.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+    # testimonial item loop
+    - name : "Rose Rio"
+      image : "images/clients/avater-3.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
