@@ -7,18 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <copyright>Copyright &amp;copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2019 11:07:10 +0600</lastBuildDate>
     
 	<atom:link href="https://kennylee.github.io/website1/zh/tags/advice/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>How To Wear Bright Shoes</title>
+      <title>TCIT 與 QNAP 合作開發智慧影像辨識解決方案</title>
       <link>https://kennylee.github.io/website1/zh/blog/blog-post-1/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <pubDate>Tue, 24 Sep 2019 11:07:10 +0600</pubDate>
       
       <guid>https://kennylee.github.io/website1/zh/blog/blog-post-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+      <description>QNAP 研發的 QVR Face 智慧人臉辨識分析解決方案，結合動態人臉辨識及智慧影像分析功能，可同時執行多個影像分析任務，並支援人臉資料庫建檔及客製化群組名單設定。QVR Face 結合 TCIT人臉辨識技術，具備第三方 API 整合彈性，可廣泛應用於自動化門禁控制、出勤管理、與智慧化零售服務，滿足企業多元應用需求。** 動態分析攝影機即時影像串流，人臉辨識更精確
+** 一台 NAS 即可進行智慧影像分析，任務執行更高效
+** 可建立人臉資料庫及客製化群組清單，智慧把關更安心
+** 廣泛支援 RTSP 串流攝影機，建置預算更精簡
+QNAP 解決方案夥伴搜尋： 前往查詢(http://www.qnap.com/go/solution/qvr-face )</description>
     </item>
     
     <item>

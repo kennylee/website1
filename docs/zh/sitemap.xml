@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://kennylee.github.io/website1/zh/tags/advice/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <lastmod>2019-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,6 +29,111 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://kennylee.github.io/website1/zh/tags/advice/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kennylee.github.io/website1/zh/</loc>
+    <lastmod>2019-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kennylee.github.io/website1/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://kennylee.github.io/website1/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kennylee.github.io/website1/zh/categories/</loc>
+    <lastmod>2019-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kennylee.github.io/website1/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://kennylee.github.io/website1/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kennylee.github.io/website1/zh/categories/company-news/</loc>
+    <lastmod>2019-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kennylee.github.io/website1/en/categories/company-news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://kennylee.github.io/website1/zh/categories/company-news/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kennylee.github.io/website1/zh/tags/</loc>
+    <lastmod>2019-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kennylee.github.io/website1/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://kennylee.github.io/website1/zh/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kennylee.github.io/website1/zh/blog/blog-post-1/</loc>
+    <lastmod>2019-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kennylee.github.io/website1/en/blog/blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://kennylee.github.io/website1/zh/blog/blog-post-1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kennylee.github.io/website1/zh/tags/technology/</loc>
+    <lastmod>2019-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kennylee.github.io/website1/en/tags/technology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://kennylee.github.io/website1/zh/tags/technology/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kennylee.github.io/website1/zh/blog/</loc>
+    <lastmod>2019-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kennylee.github.io/website1/en/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://kennylee.github.io/website1/zh/blog/"
                 />
   </url>
   
@@ -44,21 +149,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://kennylee.github.io/website1/zh/tags/ai/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kennylee.github.io/website1/zh/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kennylee.github.io/website1/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://kennylee.github.io/website1/zh/"
                 />
   </url>
   
@@ -93,21 +183,6 @@
   </url>
   
   <url>
-    <loc>https://kennylee.github.io/website1/zh/categories/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kennylee.github.io/website1/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://kennylee.github.io/website1/zh/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>https://kennylee.github.io/website1/zh/tags/company/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
@@ -119,36 +194,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://kennylee.github.io/website1/zh/tags/company/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kennylee.github.io/website1/zh/categories/company-news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kennylee.github.io/website1/en/categories/company-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://kennylee.github.io/website1/zh/categories/company-news/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kennylee.github.io/website1/zh/blog/blog-post-1/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kennylee.github.io/website1/en/blog/blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://kennylee.github.io/website1/zh/blog/blog-post-1/"
                 />
   </url>
   
@@ -284,51 +329,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://kennylee.github.io/website1/zh/tags/retro/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kennylee.github.io/website1/zh/tags/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kennylee.github.io/website1/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://kennylee.github.io/website1/zh/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kennylee.github.io/website1/zh/tags/technology/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kennylee.github.io/website1/en/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://kennylee.github.io/website1/zh/tags/technology/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://kennylee.github.io/website1/zh/blog/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kennylee.github.io/website1/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://kennylee.github.io/website1/zh/blog/"
                 />
   </url>
   
